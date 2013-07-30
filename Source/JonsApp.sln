@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JonsApp", "JonsApp\JonsApp.csproj", "{DB622C30-FC09-480B-8D9A-F6F231B7DF9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JonsApp.Tests", "JonsApp.Tests\JonsApp.Tests.csproj", "{302D8CB5-007C-41E4-8CDD-E56AEAA7CADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB622C30-FC09-480B-8D9A-F6F231B7DF9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB622C30-FC09-480B-8D9A-F6F231B7DF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB622C30-FC09-480B-8D9A-F6F231B7DF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB622C30-FC09-480B-8D9A-F6F231B7DF9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{302D8CB5-007C-41E4-8CDD-E56AEAA7CADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302D8CB5-007C-41E4-8CDD-E56AEAA7CADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302D8CB5-007C-41E4-8CDD-E56AEAA7CADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302D8CB5-007C-41E4-8CDD-E56AEAA7CADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
